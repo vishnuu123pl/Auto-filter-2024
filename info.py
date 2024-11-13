@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '6375200576:AAH0R5eaR_Tlp7308RF4oXoNI05zkbQ
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1258310642 6577722992').split()]
 USERNAME = environ.get('USERNAME', 'https://telegram.me/vis_hnu_bot')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001906470657'))
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002244828029 -1002232982072 -1002154239139 -1002228120220').split()]
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://v:v@cluster0.awn6r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://v:v@cluster0.xehb2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "vishnu")
