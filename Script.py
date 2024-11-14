@@ -104,7 +104,7 @@ User - {}"""
 •─────•─────────•─────•
 
 
-✨ ᴜᴘɪ ɪᴅ - <code>RahulReviews@UPI</code>
+✨ ᴜᴘɪ ɪᴅ - <code>vishnugopika177@okaxis</code>
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ  /myplan
 
